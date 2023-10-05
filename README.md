@@ -19,3 +19,17 @@ Object-oriented programming (OOP) organizes code around objects, which have attr
 - [Object Oriented Programming (OOP) In Python - Beginner Crash Course](https://www.youtube.com/watch?v=-pEs-Bss8Wc) by **Patrick Loeber**.
 
 ***
+
+### Projects
+1. [Banking System](https://github.com/SelfTaught-HamzaCodes/Object-Oriented-Programming/tree/main/Banking-System).
+2. [Car Parking System](https://github.com/SelfTaught-HamzaCodes/Object-Oriented-Programming/tree/main/Car-Parking-System).
+3. [Cricket](https://github.com/SelfTaught-HamzaCodes/Object-Oriented-Programming/tree/main/Cricket).
+4. [Inventory Management](https://github.com/SelfTaught-HamzaCodes/Object-Oriented-Programming/tree/main/Inventory-Management).
+5. [Park Membership System](https://github.com/SelfTaught-HamzaCodes/Object-Oriented-Programming/tree/main/Park-Membership-System).
+6. [Student Management](https://github.com/SelfTaught-HamzaCodes/Object-Oriented-Programming/tree/main/Student-Management).
+7. [Tic-Tac-Toe](https://github.com/SelfTaught-HamzaCodes/Object-Oriented-Programming/tree/main/Tic-Tac-Toe).
+8. [Train Booking System](https://github.com/SelfTaught-HamzaCodes/Object-Oriented-Programming/tree/main/Train-Booking-System).
+***
+I'd really appreciate it if you could correct me if I'm wrong, as I'm still learning. 
+
+Peace Out ✌🏼
